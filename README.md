@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ishanttiwari004@gmail.com**
 
-- ⚡ Fun fact **Some talk to people for advice, I talk to my AI assistant 🧑‍💻🧠.**
+- ⚡ Fun Fact **Some Talk To People For Advice, I Talk To My AI Assistant 🧑‍💻🧠🦾.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
