@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ishant Tiwari</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome%20to%20My%20Dev%20World!%20💻✨">
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FAD02E&center=true&vCenter=true&width=800&lines=Nice%20To%20Meet%20You!%20😄">
+  <br><br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=🚀%20Actively%20Seeking%20Opportunities!%20📢🔥">
+</p>
+
+
+
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cds-iiserk.github.io/CDS/assets/image/intro_to_comp_programming.jpg">
