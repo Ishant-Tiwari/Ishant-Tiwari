@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Ishant Tiwari</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome%20to%20My%20Dev%20World!%20💻✨">
   <br><br>
@@ -5,6 +7,7 @@
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=🚀%20Actively%20Seeking%20Opportunities!%20📢🔥">
 </p>
+
 
 
 
