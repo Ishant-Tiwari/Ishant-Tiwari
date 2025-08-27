@@ -11,7 +11,7 @@
 ### 👨🏻‍💻 &nbsp;About Me ✓
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently in My Final Year Of Computer Science and Engineering at Shri Ramdeobaba College, Nagpur.\
+🎓 &nbsp;I'm currently in My Final Year Of Computer Science and Engineering at Shri Ramdeobaba College, Nagpur MH.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence , Machine Learning and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at ishanttiwari004@gmail.com I'll try to respond as soon as I can.\
 📢 &nbsp;Open to Real-world project Opportunities And  JOBS if possible."
