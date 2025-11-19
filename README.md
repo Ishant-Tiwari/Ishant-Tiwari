@@ -16,7 +16,7 @@
 ✉️ &nbsp;You can shoot me an email at ishanttiwari004@gmail.com I'll try to respond as soon as I can.\
 📢 &nbsp;Open to Real-world project Opportunities And  JOBS if possible."
 
-<h3 align="center">A passionate Software Engineer from India </h3>
+<h3 align="center">A passionate Software Engineer from India </h3> 
 
 <img align="right" alt="coding" width="400" src="https://cds-iiserk.github.io/CDS/assets/image/intro_to_comp_programming.jpg">
 
