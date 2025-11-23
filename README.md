@@ -8,7 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=FFD700&center=true&vCenter=true&width=800&lines=🚀%20Actively%20Seeking%20Opportunities!%20📢🔥">
 </p>
 
-### 👨🏻‍💻 &nbsp;About Me ✓
+### 👨🏻‍💻 &nbsp;About Me ✓ 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently in My Final Year Of Computer Science and Engineering at Shri Ramdeobaba College, Nagpur MH.\
