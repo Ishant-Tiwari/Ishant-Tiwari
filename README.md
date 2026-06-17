@@ -11,12 +11,12 @@
 ### 👨🏻‍💻 &nbsp;About Me ✓ 
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently in My Final Year Of Computer Science and Engineering at Shri Ramdeobaba College, Nagpur MH.\
+🎓 &nbsp;I Completed My BTECH in  Computer Science and Engineering at Shri Ramdeobaba College, Nagpur MH.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence , Machine Learning and Cloud Architecture.\
 ✉️ &nbsp;You can shoot me an email at ishanttiwari004@gmail.com I'll try to respond as soon as I can.\
-📢 &nbsp;Open to Real-world project Opportunities And  JOBS if possible."
+📢 &nbsp;Open to Real-world project Opportunities And  JOBS "
 
-<h3 align="center">A passionate Software Engineer from India </h3> 
+<h3 align="center">A passionate  Engineer from India </h3> 
 
 <img align="right" alt="coding" width="400" src="https://cds-iiserk.github.io/CDS/assets/image/intro_to_comp_programming.jpg">
 
